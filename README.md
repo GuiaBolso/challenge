@@ -1,5 +1,3 @@
-# Work in progress: ainda estamos cozinhando esse texto
-
 # GuiaBolso no AWS Summit
 
 Olá, tudo bem?
@@ -53,5 +51,4 @@ Simples, basta fazer um PR colocando seu projeto no github na lista de paeticipa
 ## Participantes
 
 [Participante 1](https://github.com/GuiaBolso/aws-challenge)
-
-[em construção]
+(adicione aqui seu nome com o link para o seu repositório)
