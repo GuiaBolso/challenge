@@ -44,6 +44,14 @@ Temos uma ampla equipe de Dev, cheia de animação e disposta a selecionar os me
 
 Fones, fones bluetooth e o melhor DO GUIABOLSO s2
 
-Os ganhadores vão receber um pack com camiseta, adesivo e um fone bluetooth exclusivo do GuiaBolso.
+Os ganhadores receberão um pack com camiseta, adesivo e um fone bluetooth exclusivo do GuiaBolso.
+
+## Como participar
+
+Simples, basta fazer um PR colocando seu projeto no github na lista de paeticipantes abaixo
+
+## Participantes
+
+[Participante 1](https://github.com/GuiaBolso/aws-challenge)
 
 [em construção]
